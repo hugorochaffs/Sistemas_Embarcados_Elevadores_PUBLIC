@@ -1,0 +1,78 @@
+{
+  "elevador1": [
+  {
+    "name": "DIR1",
+    "gpio": 20,
+    "direction": "OUTPUT"
+  },
+  {
+    "name": "DIR2",
+    "gpio": 21,
+    "direction": "OUTPUT"
+  },
+  {
+    "name": "POTM",
+    "gpio": 12,
+    "direction": "OUTPUT"
+  },
+  {
+    "name": "SENSOR_TERREO",
+    "gpio": 18,
+    "direction": "INPUT"
+  },
+  {
+    "name": "SENSOR_1_ANDAR",
+    "gpio": 23,
+    "direction": "INPUT"
+  },
+  {
+    "name": "SENSOR_2_ANDAR",
+    "gpio": 24,
+    "direction": "INPUT"
+  },
+  {
+    "name": "SENSOR_3_ANDAR",
+    "gpio": 25,
+    "direction": "INPUT"
+  }
+],
+"elevador2": [
+  
+  {
+      "name": "DIR1",
+      "gpio": 19,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "DIR2",
+      "gpio": 26,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "POTM",
+      "gpio": 13,
+      "direction": "OUTPUT"
+    },
+    {
+      "name": "SENSOR_TERREO",
+      "gpio": 17,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SENSOR_1_ANDAR",
+      "gpio": 27,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SENSOR_2_ANDAR",
+      "gpio": 22,
+      "direction": "INPUT"
+    },
+    {
+      "name": "SENSOR_3_ANDAR",
+      "gpio": 6,
+      "direction": "INPUT"
+    }
+  ]
+
+}
